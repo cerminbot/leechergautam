@@ -2,7 +2,7 @@ from tobrot.sample_config import Config
 #Fill your all data, read readme for reference
 
 class Config(Config):
-    TG_BOT_TOKEN= "1438892370:AAF7V-VjuZbSXltr_oIDSBgnZNjNS8UKJXw"
+    TG_BOT_TOKEN= "1438892370:AAEbrvF36Snlg_adSt1I7Zakj5X7gYG5clk"
     APP_ID = 1046625
     API_HASH = "c68afc924b92d73ce27708b155f1e5b4"
     OWNER_ID = 617426792
